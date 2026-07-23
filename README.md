@@ -1,4 +1,4 @@
-## Hi there, I'm [shruti jadon] 👋
+## Hi there, I'm shruti jadon👋
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=450&lines=B.Tech+Computer+Science+Student;Aspiring+AI+%26+ML+Researcher;Smart+Systems+%26+Predictive+Modeling" alt="Typing SVG" />
 </div>
