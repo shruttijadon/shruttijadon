@@ -25,44 +25,36 @@ Currently, I build data-driven applications—such as time-series forecasting mo
 - **Project A:** [Building a Smart Building Energy Profiling system to analyze power consumption and efficiency trends.]  
 - **Project B:** [ Developing a Tourism Recovery Analysis dashboard using Python and Streamlit to evaluate post-pandemic trends.]
 
+## 🔭 What I'm Currently Working On
+* **Smart Building Energy Profiling:** Building an analytical system to track, profile, and optimize power consumption and efficiency trends.
+* **Tourism Recovery Analysis:** Developing a time-series forecasting dashboard using Python, Streamlit, and Prophet/ARIMA models to evaluate post-pandemic recovery metrics.
 
-## 🌱 Currently Learning 
-
-- [ Data cleaning, data manipulation, and exploratory data analysis through the Google Data Analytics Professional Certificate.]
-- [Applied machine learning workflows and predictive modeling for smart city applications.]
-  
+## 🌱 Currently Learning
+* Advanced machine learning pipelines and predictive modeling for AI convergence applications.
+* Specialized data structures and scalable system design for engineering solutions.
 
 ## 🛠️ Technical Skillset
 
+### Core AI & Research Focus
+* Artificial Intelligence & Machine Learning
+* Time-Series Forecasting (Prophet, ARIMA)
+* Predictive Modeling & Data Science
 
-#### Data Analysis & Visualization
+### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas Badge">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy Badge">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Badge">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-#### Tools & Platforms
+### Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Badge">
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab Badge">
-</p>
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas Badge">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy Badge">
-</p>
-#### Core AI & Research Focus
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white" alt="Machine Learning Badge">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Data_Analytics-0052CC?style=flat&logo=google&logoColor=white" alt="Data Analytics Badge">
-  <img src="https://img.shields.io/badge/Smart_Systems-4CAF50?style=flat&logo=iot&logoColor=white" alt="Smart Systems Badge">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 
