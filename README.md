@@ -11,14 +11,14 @@
 </p>
 
 ## 🚀 About Me 
-I am a 3rd-year B.Tech Computer Science student with a strong focus on **Machine Learning, Deep Learning, and AI Convergence Engineering**. I enjoy transforming complex datasets into actionable insights and intelligent systems.
 
-My current focus is on building data-driven projects—such as smart city mobility and energy profiling systems—while actively preparing for advanced graduate research through the KGKS scholarship track targeting KIT.
+I am a B.Tech Computer Science Engineering student specializing in **Artificial Intelligence, Machine Learning, and Data Engineering**. My core passion lies in transforming complex datasets into actionable insights, predictive models, and deployment-ready intelligent systems.
 
-When I'm not writing code or building dashboards, I enjoy mentoring others and exploring new ideas in AI innovation. I love the "aha!" moment when data reveals something new and useful.
+My academic and research goal is focused on preparing for advanced graduate studies in South Korea through the **Global Korea Scholarship (GKS)** program, aiming to contribute to cutting-edge research in AI Convergence Engineering and Data Science.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+Currently, I build data-driven applications—such as time-series forecasting models for economic recovery analysis, smart building energy profiling systems, and community-focused web platforms like the *Virtual Mentorship Bridge*. Beyond engineering, I serve in peer leadership roles and mentor aspiring tech enthusiasts.
+
+### 🌐 [Check Out My Full Portfolio Website](https://shruttijadon.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
