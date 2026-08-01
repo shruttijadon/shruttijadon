@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+AI+Researcher;Focused+on+Applied+%26+Explainable+AI;Building+practical+%26+domain-specific+AI+systems)](https://git.io/typing-svg)
 
 ### Aspiring AI Researcher | Focused on Applied & Explainable AI
-
+ 
 ## 🚀 About Me
 
 I am a B.Tech Computer Science Engineering student specializing in **Artificial Intelligence, Machine Learning, and Data Engineering**. My core passion lies in developing **practical, explainable, and domain-specific AI systems** that bridge complex data with real-world decision-making.
