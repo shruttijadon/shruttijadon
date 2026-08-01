@@ -4,8 +4,21 @@
 
 ### Aspiring AI Researcher | Focused on Applied & Explainable AI
 
-I'm a final-year B.Tech Computer Science Engineering student specializing in **Artificial Intelligence, Machine Learning, and Data Engineering**.  
-My research interest lies in building **practical, explainable, and domain-specific AI systems** that solve real industrial and societal problems.
+## 🚀 About Me
+
+I am a B.Tech Computer Science Engineering student specializing in **Artificial Intelligence, Machine Learning, and Data Engineering**. My core passion lies in developing **practical, explainable, and domain-specific AI systems** that bridge complex data with real-world decision-making.
+
+My academic trajectory and research efforts are focused on preparing for advanced graduate studies and  aiming to contribute to cutting-edge research in **AI Convergence Engineering** and sustainable smart infrastructure.
+
+Currently, I build end-to-end data systems—spanning Explainable AI (XAI) frameworks for maritime logistics, time-series forecasting models for economic recovery, and smart energy profiling. Beyond technical research,
+
+---
+
+### 🎯 Research Interests
+
+* **Explainable AI (XAI):** Transparent decision-support frameworks for industrial and ESG analytics.
+* **Predictive Modeling & Time-Series Forecasting:** Applied ML pipelines for dynamic operational metrics (ARIMA, Prophet, Scikit-Learn).
+* **Smart Logistics & Sustainability:** Data-driven solutions for smart ports, green shipping, and energy profiling.
 
 ---
 
