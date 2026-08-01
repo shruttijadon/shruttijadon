@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Aspiring+AI+Researcher;Applied+%26+Explainable+AI;Seeking+Research+Opportunities)](https://git.io/typing-svg)
 
-**Final-year B.Tech student in Computer Science Engineering**  
+**third-year B.Tech student in Computer Science Engineering**  
 Specializing in Artificial Intelligence, Machine Learning, and Data Engineering
 
 ---
