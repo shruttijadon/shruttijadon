@@ -2,16 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Aspiring+AI+Researcher;Applied+%26+Explainable+AI;Seeking+Research+Opportunities)](https://git.io/typing-svg)
 
-**Final-year B.Tech student in Computer Science Engineering**  
-Specializing in Artificial Intelligence, Machine Learning, and Data Engineering
 
----
 
 ## About Me
+I am a B.Tech Computer Science Engineering student specializing in *Artificial Intelligence, Machine Learning, and Data Engineering. My core passion lies in developing **practical, explainable, and domain-specific AI systems* that bridge complex data with real-world decision-making
 
-I am a final-year undergraduate student with a strong interest in **Applied Artificial Intelligence** and **Explainable AI (XAI)**. My research focus is on developing practical, interpretable, and domain-specific AI systems that can support real-world decision-making in industrial and sustainability-related applications.
 
-I am particularly motivated to pursue graduate studies and contribute to research in **AI Convergence**, smart logistics, and sustainable systems.
 
 ---
 
